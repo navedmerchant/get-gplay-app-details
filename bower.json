@@ -1,0 +1,19 @@
+{
+  "name": "get-gplay-app-details",
+  "version": "1.0.0",
+  "homepage": "https://github.com/akonsand/get-gplay-app-details",
+  "authors": [
+    "Naved Merchant <naved.merchant@gmail.com>"
+  ],
+  "description": "",
+  "main": "lib/index.js",
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
