@@ -8,7 +8,7 @@
 > 
 
 ## What is this?
-A simple command line utility to get gplay app details. 
+A simple command line utility to get gplay app details, the output is formatted as a JSON. 
 You can use this locally as a utility, or call it as a command line from your backend server to get for example an app icon for the a app package name.
 
 ## Installation
