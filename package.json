@@ -1,6 +1,6 @@
 {
   "name": "get-gplay-app-details",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
   "files": [
@@ -32,10 +32,10 @@
   },
   "homepage": "https://github.com/akonsand/get-gplay-app-details",
   "devDependencies": {
-    "chai": "^3.2.0",
-    "istanbul": "^0.3.5",
-    "mocha": "^2.1.0",
-    "standard": "^5.0.0"
+    "chai": "4.2.0",
+    "istanbul": "0.4.5",
+    "mocha": "7.0.1",
+    "standard": "14.3.1"
   },
   "dependencies": {
     "google-play-scraper": "7.1.2"
