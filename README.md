@@ -7,18 +7,22 @@
 
 > 
 
+## What is this?
+A simple command line utility to get gplay app details. 
+You can use this locally as a utility, or call it as a command line from your backend server to get for example an app icon for the a app package name.
+
 ## Installation
 
 ```sh
-npm install get-gplay-app-details --save
+npm install -g get-gplay-app-details
 ```
 
 ## Usage
 
-```js
-var getGplayAppDetails = require('get-gplay-app-details')
+To get Gmails app details from the play store, use this command.
 
-getGplayAppDetails() //=> "Hello World!"
+```
+get-package com.google.android.gm 
 ```
 
 ## License
